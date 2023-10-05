@@ -283,9 +283,11 @@ section{
 
 .image-wrapper{
     overflow: hidden;
+    
 }
 
 .projects-image{
+
      width: 100%;
      height: 100%;
      vertical-align: middle;
